@@ -1,5 +1,7 @@
 package org.mao.common.util;
 
+import java.util.HexFormat;
+
 public class ByteUtil {
 
     /**
